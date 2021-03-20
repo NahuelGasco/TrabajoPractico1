@@ -20,7 +20,7 @@ int main()
             printf("Aprobado %.1f \n", promedio1);
         }
     else{
-        printf("Reprobado %.1f \n", promedio1);
+        printf("Desaprobaste capo %.1f \n", promedio1);
     }
 
     return 0;
